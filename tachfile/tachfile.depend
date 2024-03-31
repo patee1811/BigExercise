@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1711866867 source:d:\new folder\tachfile\foo.cpp
+	"foo.h"
+	<iostream>
+
+1711866767 d:\new folder\tachfile\foo.h
+	"bar.h"
+
+1711865712 source:d:\new folder\tachfile\main.cpp
+	<iostream>
+	"foo.h"
+
+1711866971 d:\new folder\tachfile\bar.h
+
+1711866920 source:d:\new folder\tachfile\bar.cpp
+	"bar.h"
+	<iostream>
+
