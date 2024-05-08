@@ -1,0 +1,131 @@
+# depslib dependency file v1.0
+1715119455 source:d:\new folder\btl\main.cpp
+	<iostream>
+	"CommonFunc.h"
+	"BaseObject.h"
+	"game_map.h"
+	"MainObject.h"
+	"ImpTimer.h"
+	"ThreatsObject.h"
+	"ExplosionObject.h"
+	"TextObject.h"
+	"PlayerPower.h"
+	"Geometric.h"
+	"BossObject.h"
+
+1712569523 d:\new folder\btl\graphics.h
+	<SDL.h>
+	<SDL_image.h>
+	"defs.h"
+	"logic.h"
+
+1712569517 d:\new folder\btl\defs.h
+
+1712569524 d:\new folder\btl\logic.h
+
+1715117711 source:d:\new folder\btl\commonfunc.cpp
+	<iostream>
+	"CommonFunc.h"
+
+1715119246 d:\new folder\btl\commonfunc.h
+	<windows.foundation.h>
+	<string>
+	<SDL.h>
+	<vector>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+
+1713847243 source:d:\new folder\btl\baseobject.cpp
+	<iostream>
+	"BaseObject.h"
+
+1712805992 d:\new folder\btl\baseobject.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1713828425 source:d:\new folder\btl\game_map.cpp
+	<iostream>
+	"game_map.h"
+
+1713828592 d:\new folder\btl\game_map.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1715119558 d:\new folder\btl\mainobject.h
+	"CommonFunc.h"
+	"BaseObject.h"
+	"BulletObject.h"
+	<vector>
+
+1715119956 source:d:\new folder\btl\mainobject.cpp
+	<iostream>
+	"MainObject.h"
+
+1713835693 source:d:\new folder\btl\imptimer.cpp
+	<iostream>
+	"ImpTimer.h"
+	"CommonFunc.h"
+
+1713835693 d:\new folder\btl\imptimer.h
+
+1715059209 source:d:\new folder\btl\bulletobject.cpp
+	<iostream>
+	"BulletObject.h"
+	"BaseObject.h"
+	"CommonFunc.h"
+	"MainObject.h"
+
+1715059209 d:\new folder\btl\bulletobject.h
+	"BaseObject.h"
+	"CommonFunc.h"
+
+1715114527 source:d:\new folder\btl\threatsobject.cpp
+	<iostream>
+	"ThreatsObject.h"
+
+1715114503 d:\new folder\btl\threatsobject.h
+	"CommonFunc.h"
+	"BaseObject.h"
+	"BulletObject.h"
+
+1715035768 source:d:\new folder\btl\explosionobject.cpp
+	<iostream>
+	"ExplosionObject.h"
+
+1715050347 d:\new folder\btl\explosionobject.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1715079007 source:d:\new folder\btl\textobject.cpp
+	<iostream>
+	"TextObject.h"
+	"CommonFunc.h"
+
+1715075210 d:\new folder\btl\textobject.h
+	"CommonFunc.h"
+
+1715093300 source:d:\new folder\btl\playerpower.cpp
+	<iostream>
+	"PlayerPower.h"
+
+1715093281 d:\new folder\btl\playerpower.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1715096626 source:d:\new folder\btl\gieometric.cpp
+	<iostream>
+	"Geometric.h"
+
+1715096485 d:\new folder\btl\geometric.h
+	"CommonFunc.h"
+
+1715109609 source:d:\new folder\btl\bossobject.cpp
+	<iostream>
+	"BossObject.h"
+
+1715104771 d:\new folder\btl\bossobject.h
+	"BaseObject.h"
+	"CommonFunc.h"
+	"BulletObject.h"
+
